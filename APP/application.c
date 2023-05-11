@@ -154,7 +154,7 @@ int main()
             __delay_ms(3000);
             ret = lcd_8bit_send_string_data_pos(&lcd_2 ,2,1,"Tries Left");
             __delay_ms(3000);
-            ret = lcd_8bit_send_char_data_pos(&lcd_2 ,2,12,tries );
+            ret = lcd_8bit_send_char_data_pos(&lcd_2 ,2,12,tries+48);
             __delay_ms(3000);
             if(tries == 0)
             {
