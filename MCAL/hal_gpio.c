@@ -1,8 +1,7 @@
 /* 
  * File:   hal_gpio.c
- * Author: Ahmed.Elghafar
- * https://www.linkedin.com/in/ahmedabdelghafarmohammed/
- * Created on November 28, 2020, 8:43 PM
+ * Author: Ahmed Atef
+ * https://www.linkedin.com/in/ahmed-atef-188210234/
  */
 
 #include "hal_gpio.h"
