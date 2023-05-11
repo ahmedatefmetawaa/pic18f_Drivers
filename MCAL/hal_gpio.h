@@ -1,5 +1,5 @@
 /* 
- * File:   hal_gpio.c
+ * File:   hal_gpio.h
  * Author: Ahmed Atef
  * https://www.linkedin.com/in/ahmed-atef-188210234/
  */
